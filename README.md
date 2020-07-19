@@ -39,4 +39,4 @@ For obvious reasons, no dataset is included in the directory, but can be downloa
 Finally, the notebooks can be accessed also on Google Colab (barring authors decisions) at the following links:
 * [Preprocessing](https://colab.research.google.com/drive/1iNZN0DZq9I8prnEf07IbGHEVx0bHHGwi?usp=sharing)
 * [Models](https://colab.research.google.com/drive/11YslYdPONF6ajAnnB-actRCkZrFdelp_?usp=sharing)
-* [Comparison](https://colab.research.google.com/drive/1iNZN0DZq9I8prnEf07IbGHEVx0bHHGwi?usp=sharing)
+* [Comparison](https://colab.research.google.com/drive/1C0mc-9KKolIAU0gIkQGes2funAXhLtW1?usp=sharing)
