@@ -37,6 +37,6 @@ Futhermore, the user can find also:
 For obvious reasons, no dataset is included in the directory, but can be downloaded and exported after preprocessing and segmentation inside the `Preprocessing.ipynb` notebook.
 
 Finally, the notebooks can be accessed also on Google Colab (barring authors decisions) at the following links:
-* [Preprocessing](https://colab.research.google.com/drive/1iNZN0DZq9I8prnEf07IbGHEVx0bHHGwi?usp=sharing);
-* [Models](https://colab.research.google.com/drive/11YslYdPONF6ajAnnB-actRCkZrFdelp_?usp=sharing);
+* [Preprocessing](https://colab.research.google.com/drive/1iNZN0DZq9I8prnEf07IbGHEVx0bHHGwi?usp=sharing)
+* [Models](https://colab.research.google.com/drive/11YslYdPONF6ajAnnB-actRCkZrFdelp_?usp=sharing)
 * [Comparison](https://colab.research.google.com/drive/1iNZN0DZq9I8prnEf07IbGHEVx0bHHGwi?usp=sharing)
