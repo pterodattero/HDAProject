@@ -26,7 +26,7 @@ This might be huge for any type of application, guaranteeing to the user a seaml
 ## Instructions
 The code is structured as follows:
 * `Preprocessing.ipynb`: the preprocessing and segmentation stages. In its conclusion the preprocessed and segmented datasets (train-validation-test) must be pickled to a local or remote machine, since the pickled files are not included in this repository;
-* `Models.ipynb`: models definition and a brief evaluation section. In addition, the user can also subset the dataset using a specific function (indeed the dataset is stored as a np.ndarray);
+* `Models.ipynb`: models definition and a brief evaluation section. In addition, the user can also subset the dataset using a specific function (indeed the dataset is stored as a `np.ndarray`);
 * `Comparison.ipynb`: compare several models performances with plots.
 
 Futhermore, the user can find also:
